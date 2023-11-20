@@ -1,3 +1,4 @@
+# Protocollo Varianza
 Laboratorio per il corso di Reti (A.A. 2022/23) 
 
 Sviluppare in linguaggio C un’applicazione di rete, costituita da un programma server ed un programma client, in cui il programma server calcola media e varianza di una serie di numeri interi positivi forniti dal client, secondo le specifiche sotto indicate. 
