@@ -1,4 +1,4 @@
-# Protocollo Varianza
+![image](https://github.com/NicoVMari/Protocollo_Varianza/assets/96552280/d44f3a0f-21df-47ba-beed-979e87d905f4)# Protocollo Varianza
 Laboratorio per il corso di Reti (A.A. 2022/23) 
 
 Sviluppare in linguaggio C un’applicazione di rete, costituita da un programma server ed un programma client, in cui il programma server calcola media e varianza di una serie di numeri interi positivi forniti dal client, secondo le specifiche sotto indicate. 
@@ -134,3 +134,8 @@ S: OK DATA 1
 C: 0 
 
 S: ERR STATS Non posso calcolare la varianza di 1 campione 
+
+
+<p align="center">
+  <img src="https://github.com/NicoVMari/Protocollo_Varianza/assets/96552280/d0dd121e-e0b8-4f8e-a1cb-4d87202edda0" alt="Testo alternativo" width="300" />
+</p>
